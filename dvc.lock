@@ -5,7 +5,7 @@ stages:
     deps:
     - path: stage_01.py
       md5: cb33b7f49bb78307e446e63b635230d6
-      size: 108
+      size: 102
     outs:
     - path: one.txt
       md5: 7f6d083ab7ada4721c22b43117c7290b
@@ -18,7 +18,7 @@ stages:
       size: 21
     - path: stage_02.py
       md5: e5f7ee0533456ac7bcdbfafbddf9f385
-      size: 210
+      size: 199
     outs:
     - path: two.txt
       md5: ba5b7a3d3acd1769e0691d08169b0d09
@@ -31,7 +31,7 @@ stages:
       size: 21
     - path: stage_03.py
       md5: e600fed4a7488f9fb0ed41d5644a8873
-      size: 357
+      size: 340
     - path: two.txt
       md5: ba5b7a3d3acd1769e0691d08169b0d09
       size: 19
